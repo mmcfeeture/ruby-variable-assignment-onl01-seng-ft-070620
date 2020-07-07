@@ -1,1 +1,1 @@
-Gree
+Greeting="Hello World";
